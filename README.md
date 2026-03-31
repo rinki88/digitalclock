@@ -1,2 +1,2 @@
-# digitalclock
-Add digital clock
+# digitalclock project 
+[Screenshot] Screenshot.jpg 
